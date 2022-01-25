@@ -14,7 +14,7 @@ export default function Sidebar() {
           Laboris sunt aute cupidatat velit magna velit ullamco dolore mollit
           amet ex esse.Sunt eu ut nostrud id quis proident.
         </p>
-      
+        </div>
       <div className="sidebarItem">
         <span className="sidebarTitle">CATEGORIES</span>
         <ul className="sidebarList">
@@ -34,7 +34,7 @@ export default function Sidebar() {
           <i className="sidebarIcon fab fa-pinterest-square"></i>
           <i className="sidebarIcon fab fa-twitter-square"></i>
         </div>
-      </div>
+     
     </div>
     </div>
   );
